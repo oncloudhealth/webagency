@@ -15,9 +15,29 @@ export class AppMenuComponent implements OnInit {
     ngOnInit() {
         this.model = [
             {
-                label: 'Home',
+                label: 'Scheduling',
                 items: [
-                    { label: 'Dashboard', icon: 'pi pi-fw pi-home', routerLink: ['/'] }
+                    { label: 'Dashboard', icon: 'pi pi-fw pi-home', routerLink: ['/'] },
+                    { label: 'Scheduling', icon: 'pi pi-fw pi-home', routerLink: ['/'] },
+                    { label: 'Schedules Approval', icon: 'pi pi-fw pi-home', routerLink: ['/'] },
+                    { label: 'Timesheet', icon: 'pi pi-fw pi-home', routerLink: ['/'] },
+                    { label: 'Manual Timesheet Entry', icon: 'pi pi-fw pi-home', routerLink: ['/'] },
+                    { label: 'Manual Clock In/Out', icon: 'pi pi-fw pi-home', routerLink: ['/'] }
+                ]
+            },
+            {
+                label: 'Billing',
+                items: [
+                    { label: 'Generate Claims', icon: 'pi pi-fw pi-home', routerLink: ['/billing/generate-claims'] },
+                    { label: 'EVV', icon: 'pi pi-fw pi-home', routerLink: ['/billing/evv'] },
+                    { label: 'Private Pay Billing', icon: 'pi pi-fw pi-home', routerLink: ['/billing/private-pay-billing'] },
+                    { label: 'Payer Invoice', icon: 'pi pi-fw pi-home', routerLink: ['/billing/payer-invoice'] },
+                    { label: 'Claim Status', icon: 'pi pi-fw pi-home', routerLink: ['/billing/claim-status'] },
+                    { label: 'Claim Detail Report', icon: 'pi pi-fw pi-home', routerLink: ['/billing/claim-detail-report'] },
+                    { label: 'Patients by Insurance', icon: 'pi pi-fw pi-home', routerLink: ['/billing/patients-by-insurance'] },
+                    { label: 'Denial Analysis Report', icon: 'pi pi-fw pi-home', routerLink: ['/billing/denial-analysis-report'] },
+                    { label: 'Patient Invoicing', icon: 'pi pi-fw pi-home', routerLink: ['/billing/patient-invoicing'] },
+                    { label: 'Migrated Claims', icon: 'pi pi-fw pi-home', routerLink: ['/billing/migrated-claims'] }
                 ]
             },
             {
