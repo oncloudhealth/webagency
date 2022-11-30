@@ -11,7 +11,7 @@
       "date": "2015-09-13",
       "status": "unqualified",
       "activity": 17,
-      "representative": {
+      "client": {
         "name": "Ioni Bowcher",
         "image": "ionibowcher.png"
       }
@@ -27,7 +27,7 @@
       "date": "2019-02-09",
       "status": "proposal",
       "activity": 0,
-      "representative": {
+      "client": {
         "name": "Amy Elsner",
         "image": "amyelsner.png"
       }
@@ -43,7 +43,7 @@
       "date": "2017-05-13",
       "status": "qualified",
       "activity": 63,
-      "representative": {
+      "client": {
         "name": "Asiya Javayant",
         "image": "asiyajavayant.png"
       }
@@ -59,7 +59,7 @@
       "date": "2020-09-15",
       "status": "new",
       "activity": 37,
-      "representative": {
+      "client": {
         "name": "Xuxue Feng",
         "image": "xuxuefeng.png"
       }
@@ -75,7 +75,7 @@
       "date": "2016-05-20",
       "status": "proposal",
       "activity": 33,
-      "representative": {
+      "client": {
         "name": "Asiya Javayant",
         "image": "asiyajavayant.png"
       }
@@ -91,7 +91,7 @@
       "date": "2018-02-16",
       "status": "qualified",
       "activity": 68,
-      "representative": {
+      "client": {
         "name": "Ivan Magalhaes",
         "image": "ivanmagalhaes.png"
       }
@@ -107,7 +107,7 @@
       "date": "2018-02-19",
       "status": "renewal",
       "activity": 54,
-      "representative": {
+      "client": {
         "name": "Ivan Magalhaes",
         "image": "ivanmagalhaes.png"
       }
@@ -123,7 +123,7 @@
       "date": "2019-08-13",
       "status": "renewal",
       "activity": 69,
-      "representative": {
+      "client": {
         "name": "Onyama Limba",
         "image": "onyamalimba.png"
       }
@@ -139,7 +139,7 @@
       "date": "2018-11-21",
       "status": "unqualified",
       "activity": 76,
-      "representative": {
+      "client": {
         "name": "Ivan Magalhaes",
         "image": "ivanmagalhaes.png"
       }
@@ -155,7 +155,7 @@
       "date": "2015-07-07",
       "status": "proposal",
       "activity": 3,
-      "representative": {
+      "client": {
         "name": "Onyama Limba",
         "image": "onyamalimba.png"
       }
