@@ -27,7 +27,7 @@ export class GenerateClaimsComponent implements OnInit {
     });
 
     this.cols = [
-      { field: 'client', header: 'Client' },
+      { field: "client['name']", header: 'Client' },
       { field: 'subscriber', header: 'Subscriber' },
       { field: 'payer', header: 'Payer' },
       { field: 'scheduleFrom', header: 'Schedule From' },
