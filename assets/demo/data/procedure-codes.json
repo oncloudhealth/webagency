@@ -1,0 +1,2174 @@
+{
+    "data": [
+        {
+            "ProcedureServiceCodeID": "192",
+            "ProcedureServiceCode": "B4035  Enteral feed supp pump per d",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "193",
+            "ProcedureServiceCode": "B4036 Enteral feed sup kit grav by",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "213",
+            "ProcedureServiceCode": "85102",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "298",
+            "ProcedureServiceCode": "94644 Continuous inhalation treatment with aerosol medication for acute airway obstruction",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "284",
+            "ProcedureServiceCode": "97124 Therapeutic procedure (Massage)",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "314",
+            "ProcedureServiceCode": "97153 ABT by protocol",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "315",
+            "ProcedureServiceCode": "97154 Group ABT",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "316",
+            "ProcedureServiceCode": "97155 ABT with protocol modifications",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "317",
+            "ProcedureServiceCode": "97156 Family ABT Guidance",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "308",
+            "ProcedureServiceCode": "97597 Wound Care",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "309",
+            "ProcedureServiceCode": "97598 Wound Care",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "292",
+            "ProcedureServiceCode": "99509",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "58",
+            "ProcedureServiceCode": "A1629",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "210",
+            "ProcedureServiceCode": "A4209 5+ cc sterile syringe&needle",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "59",
+            "ProcedureServiceCode": "A4210 Nonneedle injection device",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "60",
+            "ProcedureServiceCode": "A4213 20+ cc syringe only",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "154",
+            "ProcedureServiceCode": "A4216 Sterile water/saline, 10 ml",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "174",
+            "ProcedureServiceCode": "A4217 Sterile water/saline, 500 ml",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "287",
+            "ProcedureServiceCode": "A4221",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "275",
+            "ProcedureServiceCode": "A4244",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "61",
+            "ProcedureServiceCode": "A4245 Alcohol wipes per box",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "62",
+            "ProcedureServiceCode": "A4247 Betadine/iodine swabs/wipes",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "63",
+            "ProcedureServiceCode": "A4248 Chlorhexidine antisept",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "194",
+            "ProcedureServiceCode": "A4259 Lancets per box",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "221",
+            "ProcedureServiceCode": "A4284 Replcmnt breast pump shield",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "171",
+            "ProcedureServiceCode": "A4310 Insert tray w/o bag/cath",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "64",
+            "ProcedureServiceCode": "A4312 Cath w/o bag 2-way silicone",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "65",
+            "ProcedureServiceCode": "A4314 Cath w/drainage 2-way latex",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "66",
+            "ProcedureServiceCode": "A4315 Cath w/drainage 2-way silcne",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "67",
+            "ProcedureServiceCode": "A4320 Irrigation tray",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "68",
+            "ProcedureServiceCode": "A4322 Irrigation syringe",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "290",
+            "ProcedureServiceCode": "A4331",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "69",
+            "ProcedureServiceCode": "A4332 Lube sterile packet",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "70",
+            "ProcedureServiceCode": "A4333 Urinary cath anchor device",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "71",
+            "ProcedureServiceCode": "A4334 Urinary cath leg strap",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "72",
+            "ProcedureServiceCode": "A4335 Incontinence supply",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "222",
+            "ProcedureServiceCode": "A4338 Indwelling catheter latex",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "73",
+            "ProcedureServiceCode": "A4340 Indwelling catheter special",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "179",
+            "ProcedureServiceCode": "A4344 Cath indw foley 2 way silicn",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "74",
+            "ProcedureServiceCode": "A4349 Disposable male external cat",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "75",
+            "ProcedureServiceCode": "A4351 Straight tip urine catheter",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "223",
+            "ProcedureServiceCode": "A4353 Intermittent urinary cath",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "76",
+            "ProcedureServiceCode": "A4357 Bedside drainage bag",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "77",
+            "ProcedureServiceCode": "A4358 Urinary leg or abdomen bag",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "78",
+            "ProcedureServiceCode": "A4365",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "224",
+            "ProcedureServiceCode": "A4367 Ostomy belt",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "79",
+            "ProcedureServiceCode": "A4371 Skin barrier powder per oz",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "80",
+            "ProcedureServiceCode": "A4375 Drainable plastic pch w fcpl",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "225",
+            "ProcedureServiceCode": "A4377 Drainable plstic pch w/o fp",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "81",
+            "ProcedureServiceCode": "A4385 Ost skn barrier sld ext wear",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "226",
+            "ProcedureServiceCode": "A4388 Drainable pch w ex wear barr",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "313",
+            "ProcedureServiceCode": "A4390",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "227",
+            "ProcedureServiceCode": "A4391 Urinary pouch w ex wear barr",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "82",
+            "ProcedureServiceCode": "A4394 Ostomy pouch liq deodorant",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "228",
+            "ProcedureServiceCode": "A4396 Peristomal hernia supprt blt",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "83",
+            "ProcedureServiceCode": "A4409 Ost skn barr convex <=4 sq i",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "321",
+            "ProcedureServiceCode": "A4413",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "84",
+            "ProcedureServiceCode": "A4414 Ost sknbar w/o conv<=4 sq in",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "229",
+            "ProcedureServiceCode": "A4416 Ost pch clsd w barrier/filtr",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "230",
+            "ProcedureServiceCode": "A4421 Ostomy supply misc",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "85",
+            "ProcedureServiceCode": "A4423 Ost pch for bar w lk fl/fltr",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "86",
+            "ProcedureServiceCode": "A4425 Ost pch drain for barrier fl",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "87",
+            "ProcedureServiceCode": "A4450 Non-waterproof tape",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "88",
+            "ProcedureServiceCode": "A4452 Waterproof tape",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "89",
+            "ProcedureServiceCode": "A4456 Adhesive remover, wipes",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "155",
+            "ProcedureServiceCode": "A4483 Moisture exchanger",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "90",
+            "ProcedureServiceCode": "A4520 Incontinence garment anytype",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "91",
+            "ProcedureServiceCode": "A4526",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "92",
+            "ProcedureServiceCode": "A4554 Disposable underpads",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "93",
+            "ProcedureServiceCode": "A4605 Trach suction cath close sys",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "173",
+            "ProcedureServiceCode": "A4606 Oxygen probe used w oximeter",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "156",
+            "ProcedureServiceCode": "A4616 Tubing (oxygen) per foot",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "206",
+            "ProcedureServiceCode": "A4617 Mouth piece",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "278",
+            "ProcedureServiceCode": "A4618",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "94",
+            "ProcedureServiceCode": "A4620 Variable concentration mask",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "95",
+            "ProcedureServiceCode": "A4624 Tracheal suction tube",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "96",
+            "ProcedureServiceCode": "A4628 Oropharyngeal suction cath",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "157",
+            "ProcedureServiceCode": "A4629 Tracheostomy care kit",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "165",
+            "ProcedureServiceCode": "A4649 Surgical supplies",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "166",
+            "ProcedureServiceCode": "A4657 Syringe w/wo needle",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "188",
+            "ProcedureServiceCode": "A4670 Automatic bp monitor, dial",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "97",
+            "ProcedureServiceCode": "A4927 Non-sterile gloves",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "184",
+            "ProcedureServiceCode": "A4930 Sterile, gloves per pair",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "231",
+            "ProcedureServiceCode": "A5052 Clsd ostomy pouch w/o barr",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "291",
+            "ProcedureServiceCode": "A5056",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "341",
+            "ProcedureServiceCode": "A5057",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "98",
+            "ProcedureServiceCode": "A5061 Pouch drainable w barrier at",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "99",
+            "ProcedureServiceCode": "A5120 Skin barrier, wipe or swab",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "143",
+            "ProcedureServiceCode": "A5514 Mult den insert dir carv/cam",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "211",
+            "ProcedureServiceCode": "A6196 Alginate dressing <=16 sq in",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "100",
+            "ProcedureServiceCode": "A6197 Alginate drsg >16 <=48 sq in",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "252",
+            "ProcedureServiceCode": "A6209 Foam drsg <=16 sq in w/o bdr",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "101",
+            "ProcedureServiceCode": "A6212 Foam drg <=16 sq in w/border",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "158",
+            "ProcedureServiceCode": "A6213 Foam drg >16<=48 sq in w/bdr",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "102",
+            "ProcedureServiceCode": "A6216 Non-sterile gauze<=16 sq in",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "322",
+            "ProcedureServiceCode": "A6219",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "103",
+            "ProcedureServiceCode": "A6222 Gauze <=16 in no w/sal w/o b",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "104",
+            "ProcedureServiceCode": "A6240 Hydrocolld drg filler paste",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "198",
+            "ProcedureServiceCode": "A6248 Hydrogel drsg gel filler",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "105",
+            "ProcedureServiceCode": "A6250 Skin seal protect moisturizr",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "307",
+            "ProcedureServiceCode": "A6252",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "329",
+            "ProcedureServiceCode": "a6257",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "330",
+            "ProcedureServiceCode": "A6258",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "106",
+            "ProcedureServiceCode": "A6260 Wound cleanser any type/size",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "107",
+            "ProcedureServiceCode": "A6266 Impreg gauze no h20/sal/yard",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "108",
+            "ProcedureServiceCode": "A6402 Sterile gauze <= 16 sq in",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "159",
+            "ProcedureServiceCode": "A6413 Adhesive bandage, first-aid",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "323",
+            "ProcedureServiceCode": "A6441",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "160",
+            "ProcedureServiceCode": "A7000 Disposable canister for pump",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "187",
+            "ProcedureServiceCode": "A7001 Nondisposable pump canister",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "109",
+            "ProcedureServiceCode": "A7002 Tubing used w suction pump",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "110",
+            "ProcedureServiceCode": "A7003 Nebulizer administration set",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "111",
+            "ProcedureServiceCode": "A7005 Nondisposable nebulizer set",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "112",
+            "ProcedureServiceCode": "A7015 Aerosol mask used w nebulize",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "324",
+            "ProcedureServiceCode": "A7507",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "180",
+            "ProcedureServiceCode": "A7520 Trach/laryn tube non-cuffed",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "161",
+            "ProcedureServiceCode": "A7521 Trach/laryn tube cuffed",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "299",
+            "ProcedureServiceCode": "A7525",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "113",
+            "ProcedureServiceCode": "A7526 Tracheostomy tube collar",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "162",
+            "ProcedureServiceCode": "A9270 Non-covered item or service",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "232",
+            "ProcedureServiceCode": "A9286 Any hygienic item, device",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "243",
+            "ProcedureServiceCode": "A9580  Sodium fluoride f-18",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "233",
+            "ProcedureServiceCode": "A9900 Supply/accessory/service",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "168",
+            "ProcedureServiceCode": "A9999 Dme supply or accessory, nos",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "191",
+            "ProcedureServiceCode": "B4034  Enter feed supkit syr by day",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "114",
+            "ProcedureServiceCode": "B4035 Enteral feed supp pump per d",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "115",
+            "ProcedureServiceCode": "B4036 Enteral feed sup kit grav by",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "186",
+            "ProcedureServiceCode": "B4087 Gastro/jejuno tube, std",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "116",
+            "ProcedureServiceCode": "B4088 Gastro/jejuno tube, low-pro",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "117",
+            "ProcedureServiceCode": "B4149 Ef blenderized foods",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "118",
+            "ProcedureServiceCode": "B4150 Ef complet w/intact nutrient",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "119",
+            "ProcedureServiceCode": "B4152 Ef calorie dense>/=1.5kcal",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "120",
+            "ProcedureServiceCode": "B4153 Ef hydrolyzed/amino acids",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "121",
+            "ProcedureServiceCode": "B4154 Ef spec metabolic noninherit",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "122",
+            "ProcedureServiceCode": "B4155 Ef incomplete/modular",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "234",
+            "ProcedureServiceCode": "B4157 Ef special metabolic inherit",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "172",
+            "ProcedureServiceCode": "B4158 Ef ped complete intact nut",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "123",
+            "ProcedureServiceCode": "B4160 Ef ped caloric dense>/=0.7kc",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "124",
+            "ProcedureServiceCode": "B4161 Ef ped hydrolyzed/amino acid",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "163",
+            "ProcedureServiceCode": "B9002 Enter nutr inf pump any type",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "125",
+            "ProcedureServiceCode": "B9998 Enteral supp not otherwise c",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "209",
+            "ProcedureServiceCode": "E0100 Cane adjust/fixed with tip",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "250",
+            "ProcedureServiceCode": "E0143 Walker folding wheeled w/o s",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "197",
+            "ProcedureServiceCode": "E0163 Commode chair with fixed arm",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "251",
+            "ProcedureServiceCode": "E0185 Gel pressure mattress pad",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "215",
+            "ProcedureServiceCode": "E0210 Electric heat pad standard",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "144",
+            "ProcedureServiceCode": "E0240 Bath/shower chair",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "216",
+            "ProcedureServiceCode": "E0244 Toilet seat raised",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "257",
+            "ProcedureServiceCode": "E0245",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "190",
+            "ProcedureServiceCode": "E0247 Trans bench w/wo comm open",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "219",
+            "ProcedureServiceCode": "E0271 Mattress innerspring",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "183",
+            "ProcedureServiceCode": "E0272 Mattress foam rubber",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "182",
+            "ProcedureServiceCode": "E0275 Bed pan standard",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "217",
+            "ProcedureServiceCode": "E0297 Hosp bed total elect w/o mat",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "264",
+            "ProcedureServiceCode": "E0310",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "235",
+            "ProcedureServiceCode": "E0315 Bed accessory brd/tbl/supprt",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "277",
+            "ProcedureServiceCode": "E0555",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "177",
+            "ProcedureServiceCode": "E0570 Nebulizer with compression",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "169",
+            "ProcedureServiceCode": "E0600 Suction pump portab hom modl",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "170",
+            "ProcedureServiceCode": "E0630 Patient lift hydraulic",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "236",
+            "ProcedureServiceCode": "E0705 Transfer device",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "185",
+            "ProcedureServiceCode": "E0776 Iv pole",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "237",
+            "ProcedureServiceCode": "E1399 Durable medical equipment mi",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "285",
+            "ProcedureServiceCode": "E2624",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "304",
+            "ProcedureServiceCode": "G0151 Hhcp-serv of pt,ea 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "305",
+            "ProcedureServiceCode": "G0152 Hhcp-serv of ot,ea 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "306",
+            "ProcedureServiceCode": "G0153 Hhcp-svs of s/l path,ea 15mn",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "261",
+            "ProcedureServiceCode": "G0154 Direct Skilled Services of skilled Nurse",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "320",
+            "ProcedureServiceCode": "G0155 Hhcp-svs of csw,ea 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "40",
+            "ProcedureServiceCode": "G0156 Hhcp-svs of aide,ea 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "311",
+            "ProcedureServiceCode": "G0157 HHC PT assistant ea 15",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "312",
+            "ProcedureServiceCode": "G0158 HHC OT assistant ea 15",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "1",
+            "ProcedureServiceCode": "G0162 Hhc rn e&m plan svs, 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "262",
+            "ProcedureServiceCode": "G0163 Observation and assesment of the patient condition",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "2",
+            "ProcedureServiceCode": "G0299 Hhs/hospice of rn ea 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "3",
+            "ProcedureServiceCode": "G0300 Hhs/hospice of lpn ea 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "283",
+            "ProcedureServiceCode": "G0493 Rn care ea 15 min hh/hospice",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "4",
+            "ProcedureServiceCode": "G0495 Rn care train/edu in hh",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "5",
+            "ProcedureServiceCode": "G0496 Lpn care train/edu in hh",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "247",
+            "ProcedureServiceCode": "G0908  Hgb > 12 g/dl",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "246",
+            "ProcedureServiceCode": "G0910  Hgb <= 12 g/dl",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "248",
+            "ProcedureServiceCode": "G0914  Survey not complete",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "249",
+            "ProcedureServiceCode": "G8975  Hgb <10g/dl, med rsn",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "318",
+            "ProcedureServiceCode": "H0032 MHS by non-physician",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "274",
+            "ProcedureServiceCode": "H0045 Respite care services, not in the home, per diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "319",
+            "ProcedureServiceCode": "H0046 MHS nos",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "175",
+            "ProcedureServiceCode": "H2014 Skills train and dev, 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "145",
+            "ProcedureServiceCode": "H2015 Comp comm supp svc, 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "56",
+            "ProcedureServiceCode": "H2032 Activity therapy, per 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "148",
+            "ProcedureServiceCode": "K0001 Standard wheelchair",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "220",
+            "ProcedureServiceCode": "K0006 Heavy duty wheelchair",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "150",
+            "ProcedureServiceCode": "K0812 Power operated vehicle noc",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "126",
+            "ProcedureServiceCode": "K0902 Ko double upright pre ots",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "127",
+            "ProcedureServiceCode": "L0625 Lo flex l1-below l5 pre ots",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "151",
+            "ProcedureServiceCode": "L0700 Ctlso a-p-l control molded",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "149",
+            "ProcedureServiceCode": "L0710 Ctlso a-p-l control w/ inter",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "279",
+            "ProcedureServiceCode": "L1800",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "280",
+            "ProcedureServiceCode": "L1812",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "153",
+            "ProcedureServiceCode": "L5649 Isch containmt/narrow m-l so",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "199",
+            "ProcedureServiceCode": "NO GOVERNMENT",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "273",
+            "ProcedureServiceCode": "Non-Billable Non-Reimbursable service",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "152",
+            "ProcedureServiceCode": "P3000 Screen pap by tech w md supv",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "258",
+            "ProcedureServiceCode": "Q5001 Care Provided in home",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "259",
+            "ProcedureServiceCode": "Q5002 Assisted Living Facility",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "334",
+            "ProcedureServiceCode": "Q5003 Long Term Care (LTC) or Non-skilled Nursing Facility (Unskilled Care)",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "335",
+            "ProcedureServiceCode": "Q5004 SNF (Skilled Care)",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "336",
+            "ProcedureServiceCode": "Q5005 Inpatient Hospital",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "337",
+            "ProcedureServiceCode": "Q5006 Inpatient Hospice Facility",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "338",
+            "ProcedureServiceCode": "Q5007 LTC Hospital",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "339",
+            "ProcedureServiceCode": "Q5008 Inpatient Psychiatric Facility",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "260",
+            "ProcedureServiceCode": "Q5009 Place Not Otherwise specified",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "340",
+            "ProcedureServiceCode": "Q5010 Hospice Residential Facility",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "263",
+            "ProcedureServiceCode": "Q50164 Training and/or education of patient or family member",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "255",
+            "ProcedureServiceCode": "Q51001",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "214",
+            "ProcedureServiceCode": "R63.3",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "293",
+            "ProcedureServiceCode": "S0215",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "242",
+            "ProcedureServiceCode": "S2341  Chemodenerv adduct vocal",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "241",
+            "ProcedureServiceCode": "S5010  5% dextrose and 0.45% saline",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "24",
+            "ProcedureServiceCode": "S5100 Adult daycare services 15min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "25",
+            "ProcedureServiceCode": "S5101 Adult day care per half day",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "26",
+            "ProcedureServiceCode": "S5102 Adult day care per diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "27",
+            "ProcedureServiceCode": "S5103",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "28",
+            "ProcedureServiceCode": "S5104",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "29",
+            "ProcedureServiceCode": "S5105 Centerbased day care perdiem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "41",
+            "ProcedureServiceCode": "S5108 Homecare train pt 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "42",
+            "ProcedureServiceCode": "S5109 Homecare train pt session",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "43",
+            "ProcedureServiceCode": "S5110 Family homecare training 15m",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "44",
+            "ProcedureServiceCode": "S5111 Family homecare train/sessio",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "45",
+            "ProcedureServiceCode": "S5115 Nonfamily homecare train/15m",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "46",
+            "ProcedureServiceCode": "S5116 Nonfamily hc train/session",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "30",
+            "ProcedureServiceCode": "S5120  Chore services per 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "31",
+            "ProcedureServiceCode": "S5121  Chore services per diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "32",
+            "ProcedureServiceCode": "S5125 Attendant care service /15m",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "33",
+            "ProcedureServiceCode": "S5126 Attendant care service /diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "14",
+            "ProcedureServiceCode": "S5130 Homemaker service nos per 15m",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "34",
+            "ProcedureServiceCode": "S5131 Homemaker service nos /diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "54",
+            "ProcedureServiceCode": "S5132",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "35",
+            "ProcedureServiceCode": "S5135 Adult companioncare per 15m",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "36",
+            "ProcedureServiceCode": "S5136 Adult companioncare per diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "51",
+            "ProcedureServiceCode": "S5150 Unskilled respite care /15m",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "55",
+            "ProcedureServiceCode": "S5151 Unskilled respitecare /diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "269",
+            "ProcedureServiceCode": "S5160 Emergency response system; installation and testing",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "268",
+            "ProcedureServiceCode": "S5161 Emergency response system; service fee, per month (excludes installation and testing)",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "37",
+            "ProcedureServiceCode": "S5170 Homedelivered prepared meal",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "38",
+            "ProcedureServiceCode": "S5175 Laundry serv,ext,prof,/order",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "294",
+            "ProcedureServiceCode": "S5215",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "276",
+            "ProcedureServiceCode": "S8189",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "47",
+            "ProcedureServiceCode": "S9098 Home phototherapy visit",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "48",
+            "ProcedureServiceCode": "S9122 Home health aide or certifie",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "270",
+            "ProcedureServiceCode": "S9123 Nursing care, in the home; by registered nurse, per hour",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "286",
+            "ProcedureServiceCode": "S9124 Nursing care, in the home; by licensed practical nurse, per hour",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "265",
+            "ProcedureServiceCode": "S9126 Hospice care, in the home, per diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "297",
+            "ProcedureServiceCode": "S9128 ST at home",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "296",
+            "ProcedureServiceCode": "S9129 OT at home",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "295",
+            "ProcedureServiceCode": "S9131 PT at home",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "200",
+            "ProcedureServiceCode": "SUPPLIER HCPCS CODE VERIFICATION",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "18",
+            "ProcedureServiceCode": "T1000 Private duty/independent nsg",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "19",
+            "ProcedureServiceCode": "T1001 Nursing assessment/evaluatn",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "20",
+            "ProcedureServiceCode": "T1002 Rn services up to 15 minutes",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "254",
+            "ProcedureServiceCode": "T1003 Lpn/lvn services up to 15min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "49",
+            "ProcedureServiceCode": "T1004 Nsg aide service up to 15min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "267",
+            "ProcedureServiceCode": "T1005 Respite care services, up to 15 minutes",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "244",
+            "ProcedureServiceCode": "T1007  Treatment plan development",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "245",
+            "ProcedureServiceCode": "T1010  Meals when receive services",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "57",
+            "ProcedureServiceCode": "T1013 Sign lang/oral interpreter",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "301",
+            "ProcedureServiceCode": "T1016 Case management, each 15 minutes",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "302",
+            "ProcedureServiceCode": "T1017 Targeted case management, each 15 minutes",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "303",
+            "ProcedureServiceCode": "T1018 School-based individualized education program (iep) services, bundled",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "6",
+            "ProcedureServiceCode": "T1019 Personal care ser per 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "17",
+            "ProcedureServiceCode": "T1020 Personal care ser per diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "15",
+            "ProcedureServiceCode": "T1021 Hh aide or cn aide per visit",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "16",
+            "ProcedureServiceCode": "T1030 Rn home care per diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "333",
+            "ProcedureServiceCode": "T1031",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "53",
+            "ProcedureServiceCode": "T2003 N-et; encounter/trip",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "253",
+            "ProcedureServiceCode": "T2017 Habil res waiver 15 min",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "289",
+            "ProcedureServiceCode": "T2019 Habilitation, supported employment, waiver; per 15 minutes",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "272",
+            "ProcedureServiceCode": "T2024 Service assessment/plan of care development, waiver",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "300",
+            "ProcedureServiceCode": "T2025 Waiver services",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "164",
+            "ProcedureServiceCode": "T2029 Special med equip, noswaiver",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "256",
+            "ProcedureServiceCode": "T2031 Assisted living; waiver, per diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "176",
+            "ProcedureServiceCode": "T2034 Crisis interven waiver/diem",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "282",
+            "ProcedureServiceCode": "T4344",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "128",
+            "ProcedureServiceCode": "T4521 Adult size brief/diaper sm",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "129",
+            "ProcedureServiceCode": "T4522 Adult size brief/diaper med",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "130",
+            "ProcedureServiceCode": "T4523 Adult size brief/diaper lg",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "131",
+            "ProcedureServiceCode": "T4524 Adult size brief/diaper xl",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "132",
+            "ProcedureServiceCode": "T4525 Adult size pull-on sm",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "133",
+            "ProcedureServiceCode": "T4526 Adult size pull-on med",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "134",
+            "ProcedureServiceCode": "T4527 Adult size pull-on lg",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "135",
+            "ProcedureServiceCode": "T4528 Adult size pull-on xl",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "178",
+            "ProcedureServiceCode": "T4529 Ped size brief/diaper sm/med",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "136",
+            "ProcedureServiceCode": "T4530 Ped size brief/diaper lg",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "189",
+            "ProcedureServiceCode": "T4531 Ped size pull-on sm/med",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "137",
+            "ProcedureServiceCode": "T4532 Ped size pull-on lg",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "138",
+            "ProcedureServiceCode": "T4533 Youth size brief/diaper",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "139",
+            "ProcedureServiceCode": "T4534 Youth size pull-on",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "140",
+            "ProcedureServiceCode": "T4535 Disposable liner/shield/pad",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "141",
+            "ProcedureServiceCode": "T4541 Large disposable underpad",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "181",
+            "ProcedureServiceCode": "T4543 Adult disp brief/diap abv xl",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "288",
+            "ProcedureServiceCode": "T4544",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "281",
+            "ProcedureServiceCode": "T4554",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "142",
+            "ProcedureServiceCode": "T5999 Supply, nos",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "52",
+            "ProcedureServiceCode": "T9131",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "325",
+            "ProcedureServiceCode": "W1726 Companion Services",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "266",
+            "ProcedureServiceCode": "W1793 PCA",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "332",
+            "ProcedureServiceCode": "W7060 IHCS",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "327",
+            "ProcedureServiceCode": "W7245 Transitional Work",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "326",
+            "ProcedureServiceCode": "W7283 Homemaker",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "328",
+            "ProcedureServiceCode": "W9798 Respite",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        },
+        {
+            "ProcedureServiceCodeID": "310",
+            "ProcedureServiceCode": "X5609 pseudo code (X5609)",
+            "code": null,
+            "ReimbursementType": null,
+            "Waiver": null
+        }
+    ]
+}
