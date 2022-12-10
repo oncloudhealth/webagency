@@ -1,0 +1,208 @@
+{
+    "data": [
+        {
+            "ModifierCodeID": "40",
+            "ModifierCode": "UA"
+        },
+        {
+            "ModifierCodeID": "41",
+            "ModifierCode": "TT"
+        },
+        {
+            "ModifierCodeID": "42",
+            "ModifierCode": "U5"
+        },
+        {
+            "ModifierCodeID": "43",
+            "ModifierCode": "U6"
+        },
+        {
+            "ModifierCodeID": "44",
+            "ModifierCode": "UC"
+        },
+        {
+            "ModifierCodeID": "45",
+            "ModifierCode": "TF"
+        },
+        {
+            "ModifierCodeID": "46",
+            "ModifierCode": "TG"
+        },
+        {
+            "ModifierCodeID": "47",
+            "ModifierCode": "76"
+        },
+        {
+            "ModifierCodeID": "48",
+            "ModifierCode": "77"
+        },
+        {
+            "ModifierCodeID": "49",
+            "ModifierCode": "RG"
+        },
+        {
+            "ModifierCodeID": "50",
+            "ModifierCode": "RE"
+        },
+        {
+            "ModifierCodeID": "51",
+            "ModifierCode": "EH"
+        },
+        {
+            "ModifierCodeID": "52",
+            "ModifierCode": "IR"
+        },
+        {
+            "ModifierCodeID": "53",
+            "ModifierCode": "GR"
+        },
+        {
+            "ModifierCodeID": "54",
+            "ModifierCode": "SH"
+        },
+        {
+            "ModifierCodeID": "55",
+            "ModifierCode": "PG"
+        },
+        {
+            "ModifierCodeID": "56",
+            "ModifierCode": "PH"
+        },
+        {
+            "ModifierCodeID": "57",
+            "ModifierCode": "HE"
+        },
+        {
+            "ModifierCodeID": "58",
+            "ModifierCode": "U2"
+        },
+        {
+            "ModifierCodeID": "59",
+            "ModifierCode": "EP"
+        },
+        {
+            "ModifierCodeID": "60",
+            "ModifierCode": "U3"
+        },
+        {
+            "ModifierCodeID": "61",
+            "ModifierCode": "U4"
+        },
+        {
+            "ModifierCodeID": "62",
+            "ModifierCode": "GT"
+        },
+        {
+            "ModifierCodeID": "63",
+            "ModifierCode": "UN"
+        },
+        {
+            "ModifierCodeID": "64",
+            "ModifierCode": "UP"
+        },
+        {
+            "ModifierCodeID": "65",
+            "ModifierCode": "UQ"
+        },
+        {
+            "ModifierCodeID": "66",
+            "ModifierCode": "UR"
+        },
+        {
+            "ModifierCodeID": "67",
+            "ModifierCode": "US"
+        },
+        {
+            "ModifierCodeID": "68",
+            "ModifierCode": "NU"
+        },
+        {
+            "ModifierCodeID": "69",
+            "ModifierCode": "RR"
+        },
+        {
+            "ModifierCodeID": "70",
+            "ModifierCode": "UE"
+        },
+        {
+            "ModifierCodeID": "71",
+            "ModifierCode": "KH"
+        },
+        {
+            "ModifierCodeID": "72",
+            "ModifierCode": "KJ"
+        },
+        {
+            "ModifierCodeID": "73",
+            "ModifierCode": "KI"
+        },
+        {
+            "ModifierCodeID": "76",
+            "ModifierCode": "UB"
+        },
+        {
+            "ModifierCodeID": "77",
+            "ModifierCode": "BO"
+        },
+        {
+            "ModifierCodeID": "84",
+            "ModifierCode": "AT"
+        },
+        {
+            "ModifierCodeID": "85",
+            "ModifierCode": "IN"
+        },
+        {
+            "ModifierCodeID": "87",
+            "ModifierCode": "rn"
+        },
+        {
+            "ModifierCodeID": "88",
+            "ModifierCode": "dd"
+        },
+        {
+            "ModifierCodeID": "89",
+            "ModifierCode": "HI"
+        },
+        {
+            "ModifierCodeID": "90",
+            "ModifierCode": "U1"
+        },
+        {
+            "ModifierCodeID": "91",
+            "ModifierCode": "hl"
+        },
+        {
+            "ModifierCodeID": "92",
+            "ModifierCode": "na"
+        },
+        {
+            "ModifierCodeID": "93",
+            "ModifierCode": "U8"
+        },
+        {
+            "ModifierCodeID": "94",
+            "ModifierCode": "TS"
+        },
+        {
+            "ModifierCodeID": "95",
+            "ModifierCode": "UD"
+        },
+        {
+            "ModifierCodeID": "96",
+            "ModifierCode": "HQ"
+        },
+        {
+            "ModifierCodeID": "97",
+            "ModifierCode": "KX"
+        },
+        {
+            "ModifierCodeID": "98",
+            "ModifierCode": "TD"
+        },
+        {
+            "ModifierCodeID": "143",
+            "ModifierCode": "U9"
+        }
+    ]
+}

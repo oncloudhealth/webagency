@@ -1,0 +1,272 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "CompanyName": "MINNESOTA DEPT OF HUMAN SERVICES"
+        },
+        {
+            "id": 2,
+            "CompanyName": "BCBS MN BLUE PLUS MEDICAID"
+        },
+        {
+            "id": 3,
+            "CompanyName": "Medica"
+        },
+        {
+            "id": 4,
+            "CompanyName": "METROPOLITAN HEALTH PLAN"
+        },
+        {
+            "id": 5,
+            "CompanyName": "Health Partners - Minnesota"
+        },
+        {
+            "id": 6,
+            "CompanyName": "UCARE of Minnesota"
+        },
+        {
+            "id": 7,
+            "CompanyName": "MISSOURI MEDICAID (MA)"
+        },
+        {
+            "id": 8,
+            "CompanyName": "BCBS MN BLUE PLUS MEDICAID Waiver"
+        },
+        {
+            "id": 9,
+            "CompanyName": "Patient"
+        },
+        {
+            "id": 10,
+            "CompanyName": "PA Health & Wellness"
+        },
+        {
+            "id": 11,
+            "CompanyName": "South Country Health Alliance"
+        },
+        {
+            "id": 12,
+            "CompanyName": "Hennepin Health"
+        },
+        {
+            "id": 13,
+            "CompanyName": "Medicare"
+        },
+        {
+            "id": 14,
+            "CompanyName": "UN"
+        },
+        {
+            "id": 15,
+            "CompanyName": "AC"
+        },
+        {
+            "id": 16,
+            "CompanyName": "AR. MEDICAID"
+        },
+        {
+            "id": 17,
+            "CompanyName": "AMBETTER"
+        },
+        {
+            "id": 18,
+            "CompanyName": "Summit Community Care"
+        },
+        {
+            "id": 19,
+            "CompanyName": "Minneapolis VA Health Care System"
+        },
+        {
+            "id": 20,
+            "CompanyName": "IOWA TOTAL CARE INC"
+        },
+        {
+            "id": 21,
+            "CompanyName": "Amerigroup"
+        },
+        {
+            "id": 22,
+            "CompanyName": "Polk County Funding"
+        },
+        {
+            "id": 23,
+            "CompanyName": "County Funding"
+        },
+        {
+            "id": 24,
+            "CompanyName": "HIPP"
+        },
+        {
+            "id": 25,
+            "CompanyName": "Wyoming Medicaide"
+        },
+        {
+            "id": 26,
+            "CompanyName": "Aging Resources"
+        },
+        {
+            "id": 27,
+            "CompanyName": "UPMC Health Plan"
+        },
+        {
+            "id": 28,
+            "CompanyName": "UPMCCHC"
+        },
+        {
+            "id": 29,
+            "CompanyName": "BCBS of Michigan"
+        },
+        {
+            "id": 30,
+            "CompanyName": "Georgia Department of Community Health"
+        },
+        {
+            "id": 31,
+            "CompanyName": "Redwood Coast PACE"
+        },
+        {
+            "id": 32,
+            "CompanyName": "MSSP"
+        },
+        {
+            "id": 33,
+            "CompanyName": "Virginia Premier Elite Plus"
+        },
+        {
+            "id": 34,
+            "CompanyName": "Aetna Better Health of Virginia"
+        },
+        {
+            "id": 35,
+            "CompanyName": "Magellan Complete Care of Virginia"
+        },
+        {
+            "id": 36,
+            "CompanyName": "United Healthcare of Virginia"
+        },
+        {
+            "id": 37,
+            "CompanyName": "Benefit Plan Administrators "
+        },
+        {
+            "id": 38,
+            "CompanyName": "Anthem Healthkeepers Plus"
+        },
+        {
+            "id": 39,
+            "CompanyName": "VA"
+        },
+        {
+            "id": 40,
+            "CompanyName": "ALS"
+        },
+        {
+            "id": 41,
+            "CompanyName": "Culinary"
+        },
+        {
+            "id": 42,
+            "CompanyName": "Cash"
+        },
+        {
+            "id": 43,
+            "CompanyName": "CADI"
+        },
+        {
+            "id": 44,
+            "CompanyName": "CDCS"
+        },
+        {
+            "id": 45,
+            "CompanyName": "Arizona Division of Developmental Disabilities"
+        },
+        {
+            "id": 46,
+            "CompanyName": "Wisconsin Medicaid (MA)"
+        },
+        {
+            "id": 47,
+            "CompanyName": "United Health care WI"
+        },
+        {
+            "id": 48,
+            "CompanyName": "IRIS Premier Care"
+        },
+        {
+            "id": 49,
+            "CompanyName": "Anthem Blue Cross and Blue Shield"
+        },
+        {
+            "id": 50,
+            "CompanyName": "Lakeland Care"
+        },
+        {
+            "id": 51,
+            "CompanyName": "Independent Care"
+        },
+        {
+            "id": 52,
+            "CompanyName": "CARE WISC"
+        },
+        {
+            "id": 53,
+            "CompanyName": "Molina Healthcare"
+        },
+        {
+            "id": 54,
+            "CompanyName": "Optum Professional"
+        },
+        {
+            "id": 55,
+            "CompanyName": "Optum PPS"
+        },
+        {
+            "id": 57,
+            "CompanyName": "BRIDGEVIEW"
+        },
+        {
+            "id": 58,
+            "CompanyName": "Arizona Health Care Cost Containment System"
+        },
+        {
+            "id": 59,
+            "CompanyName": "United Healthcare"
+        },
+        {
+            "id": 60,
+            "CompanyName": "Healthy Blue - MO"
+        },
+        {
+            "id": 61,
+            "CompanyName": "Home State Health - MO"
+        },
+        {
+            "id": 62,
+            "CompanyName": "BCBS of Arizona"
+        },
+        {
+            "id": 63,
+            "CompanyName": "Professional Health Care Network"
+        },
+        {
+            "id": 64,
+            "CompanyName": "Cigna"
+        },
+        {
+            "id": 65,
+            "CompanyName": "Professional Cares"
+        },
+        {
+            "id": 66,
+            "CompanyName": "Non-Billable Visit"
+        },
+        {
+            "id": 68,
+            "CompanyName": "MercyCare AZ"
+        },
+        {
+            "id": 69,
+            "CompanyName": "Ambetter from Managed Health Services (MHS)"
+        }
+    ]
+}

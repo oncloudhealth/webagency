@@ -9,6 +9,9 @@ import { MultiSelectModule } from 'primeng/multiselect';
 import { InputTextModule } from 'primeng/inputtext';
 import { FormsModule } from '@angular/forms';
 import { ButtonModule } from 'primeng/button';
+import { CalendarModule } from 'primeng/calendar';
+import { BreadcrumbModule } from 'primeng/breadcrumb';
+import { ToastModule } from 'primeng/toast';
 
 @NgModule({
     imports: [
@@ -22,7 +25,11 @@ import { ButtonModule } from 'primeng/button';
         DropdownModule,
         MultiSelectModule,
         InputTextModule,
-        ButtonModule
+        ButtonModule,
+        DropdownModule,
+        CalendarModule,
+        BreadcrumbModule,
+        ToastModule
     ],
     declarations: [GenerateClaimsComponent]
 })

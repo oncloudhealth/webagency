@@ -12,7 +12,12 @@ export class AppConfigComponent {
 
     scales: number[] = [12, 13, 14, 15, 16];
 
-    constructor(public layoutService: LayoutService, public menuService: MenuService) { }
+    constructor(public layoutService: LayoutService, public menuService: MenuService) {
+        this.decrementScale();
+        this.layoutService.config.inputStyle = 'outlined';
+        this.layoutService.config.ripple = true;
+        this.changeTheme('lara-light-blue', 'light');
+    }
 
     get visible(): boolean {
         return this.layoutService.state.configSidebarVisible;
