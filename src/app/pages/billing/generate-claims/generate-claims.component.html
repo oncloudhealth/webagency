@@ -4,7 +4,7 @@
     <p-breadcrumb [model]="breadcrumb" [home]="home"></p-breadcrumb>
 </div>
 
-<p-table #dt1 [value]="claims" [scrollable]="true" [columns]="cols" dataKey="id" [rows]="10" [showCurrentPageReport]="true"
+<p-table #dt1 [value]="claims" styleClass="p-datatable-striped" [scrollable]="true" [columns]="cols" dataKey="id" [rows]="10" [showCurrentPageReport]="true"
     [rowsPerPageOptions]="[10,25,50]" [loading]="loading" [paginator]="true"
     currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
     [globalFilterFields]="['client.name','subscriber','payer','scheduleFrom','scheduleTo','scheduledHours','workedHours','startingUnits','remainingUnits','approved','employees','totalAmount']"
@@ -43,6 +43,7 @@
             <p-calendar [(ngModel)]="rangeDates" [required]="true" placeholder="Service Date" selectionMode="range" [readonlyInput]="true" appendTo="body"
                 [showIcon]="true" [showTime]="true" [showButtonBar]="true" hourFormat="12" inputId="range" class="mr-2">
             </p-calendar>
+            <button [disabled]="true" pButton type="button" icon="pi pi-filter-fill" iconPos="left"></button>
             <button (click)="submit()" pButton pRipple type="button" icon="pi pi-arrow-right" iconPos="right" label="Generate Bill Now" class="p-button-rounded p-button-success ml-auto px-5"></button>
             <!-- <span class="p-input-icon-left ml-auto">
                 <i class="pi pi-search"></i>
@@ -52,20 +53,12 @@
         </div>
     </ng-template>
     <ng-template pTemplate="header" let-columns>
-        <tr>
-            <th>
+        <!-- <tr>
+            <th style="width: 1rem">&nbsp;</th>
+            <th style="width: 1rem">&nbsp;
                 <p-tableHeaderCheckbox></p-tableHeaderCheckbox>
             </th>
-            <th *ngFor="let col of columns" [pSortableColumn]="col.field">
-                {{col.header}}
-                <p-sortIcon [field]="col.field"></p-sortIcon>
-            </th>
-        </tr>
-        <tr>
-            <th>
-                <p-tableHeaderCheckbox></p-tableHeaderCheckbox>
-            </th>
-            <th width="200">
+            <th style="width: 3rem">
                 <p-columnFilter field="client" matchMode="in" [showMenu]="false">
                     <ng-template pTemplate="filter" let-value let-filter="filterCallback">
                         <p-multiSelect [ngModel]="value" [options]="representatives" placeholder="Any"
@@ -114,50 +107,102 @@
             <th>
                 <p-columnFilter type="text" field="totalAmount"></p-columnFilter>
             </th>
+        </tr> -->
+        <tr>
+            <th style="min-width: 2rem">&nbsp;</th>
+            <th style="width: 1rem">
+                <p-tableHeaderCheckbox></p-tableHeaderCheckbox>
+            </th>
+            <th *ngFor="let col of columns" [pSortableColumn]="col.field" style="min-width: 10rem">
+                <div class="flex justify-content-between align-items-center">
+                    {{col.header}}
+                    <p-sortIcon [field]="col.field"></p-sortIcon>
+                    <p-columnFilter type="text" [field]="col.field" display="menu" class="ml-auto"></p-columnFilter>
+                </div>
+            </th>
         </tr>
     </ng-template>
-    <ng-template pTemplate="body" let-customer>
-        <tr>
-            <td>
+    <ng-template pTemplate="body" let-customer let-expanded="expanded">
+        <tr class="p-selectable-row">
+            <td style="min-width: 2rem">&nbsp;
+                <button type="button" pButton pRipple [pRowToggler]="customer" class="p-button-text p-button-rounded p-button-plain" [icon]="expanded ? 'pi pi-minus' : 'pi pi-plus'"></button>
+            </td>
+            <td style="width: 1rem">
                 <p-tableCheckbox [value]="customer"></p-tableCheckbox>
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 <img class="mr-2" [alt]="customer.client.name" src="assets/demo/images/avatar/{{customer.client.image}}"
                     width="32" style="vertical-align: middle" />
                 <span class="image-text">{{customer.client.name}}</span>
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.subscriber}}
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.payer}}
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.scheduleFrom}}
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.scheduleTo}}
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.scheduledHours}}
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.workedHours}}
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.startingUnits}}
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.remainingUnits}}
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.approved}}
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.employees}}
             </td>
-            <td>
+            <td style="min-width: 10rem">
                 {{customer.totalAmount}}
+            </td>
+        </tr>
+    </ng-template>
+    <ng-template pTemplate="rowexpansion" let-claim>
+        <tr>
+            <td colspan="14">
+                <div class="p-3" style="flex: 1">
+                    <p-table [value]="claim.orders" dataKey="id">
+                        <ng-template pTemplate="header">
+                            <tr>
+                                <th>Service From</th>
+                                <th>Service To</th>
+                                <th>Worked Hours</th>
+                                <th>Service Rate</th>
+                                <th>Billed Amount</th>
+                                <th>Procedure Code</th>
+                                <th>Modifier</th>
+                            </tr>
+                        </ng-template>
+                        <ng-template pTemplate="body" let-order>
+                            <tr>
+                                <td>{{order.id}}</td>
+                                <td>{{order.customer}}</td>
+                                <td>{{order.id}}</td>
+                                <td>{{order.amount | currency:'USD'}}</td>
+                                <td><span [class]="'order-badge order-' + order.status.toLowerCase()">{{order.status}}</span></td>
+                                <td><p-button type="button" icon="pi pi-search"></p-button></td>
+                            </tr>
+                        </ng-template>
+                        <ng-template pTemplate="emptymessage">
+                            <tr>
+                                <td colspan="6">There are no data for this claim yet.</td>
+                            </tr>
+                        </ng-template>
+                    </p-table>
+                </div>
             </td>
         </tr>
     </ng-template>
